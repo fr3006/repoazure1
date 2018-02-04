@@ -11,7 +11,6 @@ export class HomePage {
   animales:Animal[] = [];
 
   constructor() {
-
     this.animales = ANIMALES.slice(0);  
   }
 }
